@@ -1,0 +1,10 @@
+name,age,city,score
+ Jack ,20, Beijing ,90
+ROSE,21,SHANGHAI,95
+Tom,unknown,beijing,80
+Lucy,22, Shanghai ,error
+Mike,19,BEIJING,105
+ Jack ,20, Beijing ,90
+John,150,SHANGHAI,88
+Alice,21,beijing,
+Bob,-5, SHANGHAI ,76
